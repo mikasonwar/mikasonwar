@@ -1,7 +1,7 @@
 <img src="img/yoriichi.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Yoriichi (from demon slayer) gif">
 
 <p align="left">
-  DevOps @ <a href="https://www.wiremaze.com/">WireMaze</a>
+  WebDev @ <a href="https://www.wiremaze.com/">WireMaze</a>
 </p>
 
 <p align="left">
